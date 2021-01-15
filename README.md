@@ -1,11 +1,7 @@
 # testing
 
-test site for trying out some functionality
+This is a test site for trying out some of the features of GitHub.
 
-## Level-2 header
+# Push/Pull
 
-You can make words bold with 2 asterisks or underscores, like **this** or __this__.
-
-### level 3
-
-
+We'll modify this file, commit it, and then pull it down to your local computer via a pull.
