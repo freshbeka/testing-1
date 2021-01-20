@@ -9,5 +9,5 @@ num <- 2
 ## a fraction
 num / den
 
-## substraction
+## subtraction
 num - den
