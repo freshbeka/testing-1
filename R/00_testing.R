@@ -8,3 +8,6 @@ num <- 2
 
 ## a fraction
 num / den
+
+## subtraction
+num - demo
